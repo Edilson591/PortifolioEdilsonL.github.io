@@ -70,7 +70,6 @@ function updateProfessionalExperience(profileData){
     updateHardSkills(profileData)
     updatePortfolio(profileData)
     updateProfessionalExperience(profileData)
-    console.log(profileData)
 })()
 
 
